@@ -1,0 +1,28 @@
+#수평선{
+    margin-top:25px;
+    margin-bottom: 50px;
+}
+.container{
+    text-align: center;
+    margin: 0 auto;
+}
+#수평선2{
+    margin-top:50px;
+}
+*{
+    font-family: 'Black Han Sans', sans-serif;
+    font-family: 'Dongle', sans-serif;  
+}
+#모든것{
+    font-size: 50px;
+    margin-top:25px;
+
+}
+#상세{
+    font-size: 30px;
+    margin-top:15px;
+}
+#컴알못{
+    text-align: center;
+    margin:0 auto;
+}
